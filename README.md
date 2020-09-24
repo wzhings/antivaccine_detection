@@ -1,4 +1,4 @@
-# Dr. Instagram May Be a Liar: Detecting Medical Misinformation on Social Media
+## Dr. Instagram May Be a Liar: Detecting Medical Misinformation on Social Media
 ---
 **The code is coming soon.**
 
