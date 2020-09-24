@@ -4,7 +4,7 @@
 
 ### Table of Contents
 1. Introduction
-2. How to run the code
+2. How to use the code
 3. Citation
 
 
