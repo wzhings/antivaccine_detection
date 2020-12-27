@@ -1,4 +1,4 @@
-## Dr. Instagram May Be a Liar: Detecting Medical Misinformation on Social Media
+## Detecting Medical Misinformation on Social Media Using Multimodal Deep Learning
 
 **The code is coming soon.**
 
